@@ -1,0 +1,67 @@
+*{
+background-color: ;
+align-items: display;
+}
+
+.josue{
+
+	background-color:  #fffa57 ;
+	margin: 10px;
+ 	align-items: flex-end;
+  padding: 20px 0;
+  text-align: center;
+
+}
+
+
+.emerson{
+  background-color:   #57ffff ;
+margin: 10px;
+ 	align-items: flex-end;
+  padding: 20px 0;
+  text-align: center;
+}
+
+body {
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;
+  font:
+    0.9em/1.2 Arial,
+    Helvetica,
+    sans-serif;
+}
+
+
+#btnSumar{
+padding: 25px;
+margin:25px;
+background-color:   #99fa24 ;
+
+}
+#btnResta{
+
+padding: 25px;
+margin:25px;
+background-color:  #ff5f57 ;
+}
+
+#btnSumar1{
+padding: 25px;
+margin:25px;
+background-color:   #99fa24 ;
+
+}
+
+
+#btnRestaEmerson{
+padding: 25px;
+margin:25px;
+background-color:  #ff5f57 ;
+
+}
+
+p{
+font-size:25px;
+
+}
